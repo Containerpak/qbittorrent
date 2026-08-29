@@ -4,7 +4,7 @@
   "name": "qBittorrent",
   "description": "Download and share files with BitTorrent.",
   "version": "5.1.4",
-  "image": "ghcr.io/containerpak/qbittorrent@sha256:d0d244b4a5ea0232ebc82281eab66bf719a5f54b9d00f9f78e205b45ab058cce",
+  "image": "ghcr.io/containerpak/qbittorrent@sha256:f6d11a86df24bec4794f20bb6c68bd62ffa9de2f63e10c2b14772b08714c990f",
   "binaries": [
     "/usr/bin/qbittorrent"
   ],
